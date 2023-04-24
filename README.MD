@@ -7,7 +7,7 @@ This repository contains the code for Assignment 1 in the COSC2430 course. The a
 - Live website URL: https://phanthehungs3926216.github.io/COSC2430_Assignment1_s3926216_Phan_The_Hung/
 - GitHub repository URL: https://github.com/PhanTheHungs3926216/COSC2430_Assignment1_s3926216_Phan_The_Hung
 - Source files: All source files are available in the repository.
-- Report: The report is available in the repository.
+- Report: Project Report.pdf
 
 
 
