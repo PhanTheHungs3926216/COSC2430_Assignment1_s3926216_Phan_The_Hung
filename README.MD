@@ -9,7 +9,5 @@ This repository contains the code for Assignment 1 in the COSC2430 course. The a
 - Source files: All source files are available in the repository.
 - Report: The report is available in the repository.
 
-## Submission
-To submit this assignment, please use the Canvas submission system.
 
 
